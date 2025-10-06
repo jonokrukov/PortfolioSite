@@ -7,6 +7,14 @@
   --font-ovo: 'Ovo', serif;
 }
 
+@utility shadow-black {
+  box-shadow: 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@utiliy shadow-white {
+  box-shadow: 4px 4px rgba(255, 255, 255, 0.25)
+}
+
 body {
   font-family: 'Outfit', sans-serif;
 }
