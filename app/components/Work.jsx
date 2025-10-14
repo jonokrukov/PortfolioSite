@@ -9,7 +9,6 @@ const Work = () => {
             My portfolio</h4>
         <h2 className='text-center text-5xl font-Ovo'>
             My latest work</h2>
-
         <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
             Welcome to my software development portfolio! Explore a collection of my previous projects that showcase my expertise in software development.
         </p>
