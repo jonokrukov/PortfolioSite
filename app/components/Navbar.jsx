@@ -44,7 +44,7 @@ const Navbar = () => {
             <li><a className='font-ovo' href="#top">Home</a></li>
             <li><a className='font-ovo' href="#about">About Me</a></li>
             <li><a className='font-ovo' href="#services">Services</a></li>
-            <li><a className='font-ovo' href="#projects">My Projects</a></li>
+            <li><a className='font-ovo' href="#work">My Projects</a></li>
             <li><a className='font-ovo' href="#contact">Contact Me</a></li>
         </ul>
         <div className='flex items-center gap-4'>
