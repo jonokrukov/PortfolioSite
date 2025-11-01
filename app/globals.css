@@ -5,15 +5,8 @@
   --color-darkHover: #2a004a;
   --color-darkTheme: #11001F;
   --font-ovo: 'Ovo', serif;
-}
-
-@layer utilities {
-  .shadow-black {
-    box-shadow: 4px 4px rgba(0, 0, 0, 0.75);
-  }
-  .shadow-white {
-    box-shadow: 4px 4px rgba(255, 255, 255, 0.25);
-  }
+  --shadow-black: 4px 4px rgba(0, 0, 0, 0.75);
+  --shadow-white: 4px 4px rgba(255, 255, 255, 0.25);
 }
 
 body {
